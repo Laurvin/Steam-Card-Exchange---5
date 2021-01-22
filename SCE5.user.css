@@ -1,4 +1,10 @@
-@namespace url(http://www.w3.org/1999/xhtml);
+/* ==UserStyle==
+@name           Steam Card Exchange - 5
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    To Color badges that are at 5.
+@author         Me
+==/UserStyle== */
 
 @-moz-document domain("steamcardexchange.net")
 {
