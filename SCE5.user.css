@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Steam Card Exchange - 5
 @namespace      github.com/openstyles/stylus
-@version        1.0.6
+@version        1.0.7
 @description    To Color badges that are at 5.
 @author         Me
 ==/UserStyle== */
@@ -27,6 +27,10 @@
   td a[href="index.php?inventorygame-appid-xxxxxx"],
   td a[href="index.php?inventorygame-appid-xxxxxx"],
   td a[href="index.php?inventorygame-appid-xxxxxx"],
+  td a[href="index.php?inventorygame-appid-xxxxxx"],
+  td a[href="index.php?inventorygame-appid-xxxxxx"],
+  td a[href="index.php?inventorygame-appid-xxxxxx"],
+  td a[href="index.php?inventorygame-appid-283660"],
   td a[href="index.php?inventorygame-appid-562520"],
   td a[href="index.php?inventorygame-appid-399420"],
   td a[href="index.php?inventorygame-appid-416290"],
